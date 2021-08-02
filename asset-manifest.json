@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rayyan-Dakhni/calculator.git/static/css/main.9a8f0a77.chunk.css",
+    "main.js": "/Rayyan-Dakhni/calculator.git/static/js/main.68911a5b.chunk.js",
+    "main.js.map": "/Rayyan-Dakhni/calculator.git/static/js/main.68911a5b.chunk.js.map",
+    "runtime-main.js": "/Rayyan-Dakhni/calculator.git/static/js/runtime-main.4d4091fd.js",
+    "runtime-main.js.map": "/Rayyan-Dakhni/calculator.git/static/js/runtime-main.4d4091fd.js.map",
+    "static/js/2.b5d45ee2.chunk.js": "/Rayyan-Dakhni/calculator.git/static/js/2.b5d45ee2.chunk.js",
+    "static/js/2.b5d45ee2.chunk.js.map": "/Rayyan-Dakhni/calculator.git/static/js/2.b5d45ee2.chunk.js.map",
+    "static/js/3.933575b9.chunk.js": "/Rayyan-Dakhni/calculator.git/static/js/3.933575b9.chunk.js",
+    "static/js/3.933575b9.chunk.js.map": "/Rayyan-Dakhni/calculator.git/static/js/3.933575b9.chunk.js.map",
+    "index.html": "/Rayyan-Dakhni/calculator.git/index.html",
+    "static/css/main.9a8f0a77.chunk.css.map": "/Rayyan-Dakhni/calculator.git/static/css/main.9a8f0a77.chunk.css.map",
+    "static/js/2.b5d45ee2.chunk.js.LICENSE.txt": "/Rayyan-Dakhni/calculator.git/static/js/2.b5d45ee2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4091fd.js",
+    "static/js/2.b5d45ee2.chunk.js",
+    "static/css/main.9a8f0a77.chunk.css",
+    "static/js/main.68911a5b.chunk.js"
+  ]
+}
